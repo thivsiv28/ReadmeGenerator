@@ -28,5 +28,5 @@ https://github.com/thivsiv28/ReadmeGenerator
 
 ### Sample README :
 
-![samplereadmescreenshotgeneratedbytheapplication](Screenshotsamplereadme.png)
+![samplereadmescreenshotgeneratedbytheapplication](./Screenshotsamplereadme.png)
 
